@@ -95,7 +95,7 @@ int main(void)
 
 
 
-	  HAL_GPIO_TogglePin(GPIOA, GPIO_PIN_7);  //toggling pin 7  
+	  HAL_GPIO_TogglePin(GPIOA, GPIO_PIN_0);  //toggling pin 0
 	  HAL_Delay(200);   //wait for 200 miliseconds
     
     
